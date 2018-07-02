@@ -1,5 +1,5 @@
-Using a simple time-triggered scheduler on ARM Cortex M3/M4
-===========================================================
+Using uC/OS-II with mbed on ARM Cortex M3/M4
+============================================
 
 Introduction
 ------------
